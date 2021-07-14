@@ -1,0 +1,23 @@
+.wishlist-card-header {
+  padding-bottom: 5px !important;
+}
+
+.remove-wishlist {
+  cursor: pointer;
+}
+
+.addlist {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none !important;
+  padding-top: 0px !important;
+}
+
+.modal-func {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
